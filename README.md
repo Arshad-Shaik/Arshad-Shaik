@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hi, I'm SHAIK ARSHAD WASIB!<br><br><br>👨‍💻 I'm a passionate developer and data enthusiast working on intelligent systems and data-driven solutions. My projects revolve around **AI**, **Computer Vision**, and **Data Analysis**, with a knack for crafting efficient code and optimizing AI models.<br><br>🔭 I'm diving deep into **Deep Learning** with a focus on **Convolutional Neural Networks (CNNs)**.<br><br>🌱 I'm currently learning **Cisco Data Analysis** to extract insights from network data.<br><br>💬 Ask me about **Python**, **Java**, **Prompt Engineering**, or **Artificial Intelligence**!<br><br>⚡ Fun Fact, I once built a neural network to classify constellations from star patterns, blending my love for astronomy and deep learning!<br><br>
+👋 Hi, I'm SHAIK ARSHAD WASIB<br><br><br>👨‍💻 I'm a passionate developer and data enthusiast working on intelligent systems and data-driven solutions. My projects revolve around **AI**, **Computer Vision**, and **Data Analysis**, with a knack for crafting efficient code and optimizing AI models.<br><br>🔭 I'm diving deep into **Deep Learning** with a focus on **Convolutional Neural Networks (CNNs)**.<br><br>🌱 I'm currently learning **Cisco Data Analysis** to extract insights from network data.<br><br>💬 Ask me about **Python**, **Java**, **Prompt Engineering**, or **Artificial Intelligence**!<br><br>⚡ Fun Fact, I once built a neural network to classify constellations from star patterns, blending my love for astronomy and deep learning!<br><br>
 
 
 ## 🌐 Socials:
