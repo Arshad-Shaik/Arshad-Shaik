@@ -3,7 +3,15 @@
 </div>
 
 # 💫 About Me:
-👋 Hi, I'm SHAIK ARSHAD WASIB<br><br><br>👨‍💻 A Passionate Full Stack Developer & Data Analyst with AI expertise, specializing in intelligent voice agents and data-driven web apps. I engineer end-to-end solutions using Python, React, and TensorFlow, deploying scalable systems on GitHub, Vercel, Netlify, PythonAnyWhere, AWS, Docker. Expert in LLMs, RESTful APIs, and cloud platforms. Proficient in SQL, Pandas, scikit-learn, and PyTorch for data analysis, ETL, and ML model deployment. Skilled in Spark, Hadoop, and Airflow for big data processing. Strong in Docker, Kubernetes, and MLOps for seamless deployment. Deliver high-impact software through Agile collaboration, from concept to production. Transform data into actionable insights with Tableau, Power BI, and advanced AI/LLM integration.
+👋 Hi, I'm SHAIK ARSHAD WASIB<br><br><br>👨‍💻<br> 
+
+<div style="text-align: justify;">
+A Passionate Full Stack Developer & Data Analyst with AI expertise, specializing in intelligent voice agents and data-driven web apps.
+I engineer end-to-end solutions using Python, React, and TensorFlow, deploying scalable systems on GitHub, Vercel, Netlify, PythonAnyWhere, AWS, Docker. 
+Expert in LLMs, RESTful APIs, and cloud platforms. Proficient in SQL, Pandas, scikit-learn, and PyTorch for data analysis, ETL, and ML model deployment. 
+Skilled in Spark, Hadoop, and Airflow for big data processing. Strong in Docker, Kubernetes, and MLOps for seamless deployment. 
+Deliver high-impact software through Agile collaboration, from concept to production. Transform data into actionable insights with Tableau, Power BI, and advanced AI/LLM integration.
+</div>
 
 
 ## 🌐 Socials:
