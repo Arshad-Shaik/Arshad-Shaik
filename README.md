@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1846" height="738" alt="{8D405EAF-13AC-497F-8AEC-9CFFA85D2C9A}" src="https://github.com/user-attachments/assets/50f5e387-073b-48c1-9baf-f51318dfc9c6" />
+  <img align="center" width="1292" height="738" alt="Screenshot 2025-10-23 185448" src="https://github.com/user-attachments/assets/86329023-8f39-4794-a484-f060eaaffe34" />
 </div>
 
 # 💫 About Me:
