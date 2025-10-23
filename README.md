@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/9QrR3BK9/image.png" height="400" weight="400">
+  <img width="1846" height="738" alt="{8D405EAF-13AC-497F-8AEC-9CFFA85D2C9A}" src="https://github.com/user-attachments/assets/50f5e387-073b-48c1-9baf-f51318dfc9c6" />
 </div>
 
 # 💫 About Me:
