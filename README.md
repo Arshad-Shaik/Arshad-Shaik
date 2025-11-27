@@ -22,8 +22,9 @@
 
 
 <div align="center">
-  <img align="center" width="1292" height="738" alt="Screenshot 2025-10-23 185448" src="https://github.com/user-attachments/assets/86329023-8f39-4794-a484-f060eaaffe34" />
+  <img width="1920" height="1037" alt="Screenshot 2025-11-10 200438" src="https://github.com/user-attachments/assets/94024fbe-16f3-4b52-acbb-619ab9f750c8" />
 </div>
+
 
 
 ## 🌐 Socials:
