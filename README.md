@@ -1,30 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
-  <img width="1920" height="1037" alt="Screenshot 2025-11-10 200438" src="https://github.com/user-attachments/assets/94024fbe-16f3-4b52-acbb-619ab9f750c8" />
+  <img width="1903" height="949" alt="{37BE8E8F-587C-42EC-AA3E-40F170AFBBBF}" src="https://github.com/user-attachments/assets/e6aa9783-e557-48bb-9f7c-bb7ed4e369d1" />
 </div>
-
 
 
 ## 🌐 Socials:
